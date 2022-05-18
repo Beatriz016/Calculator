@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4D77FF;
+    width: 100vw;
+    height: 10vh;
+}
+
+#container {
+    /* background-color:blueviolet;  */
+    margin-top: 12%;  
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#normal_container {
+    background-color: white;
+    width: 20vw;
+    height: 42vh;
+    border: solid 2px black;
+    border-radius: 4px;
+}
+
+#numeric_container {
+    background-color: white;
+    width: 20vw;
+    height: 42vh;
+    border: solid 2px black;
+    border-radius: 4px;
+}
+
+#scientific_container {
+    background-color:white;
+    width: 20vw;
+    height: 42vh;
+    border: solid 2px black;
+    border-radius: 4px;
+}
+
